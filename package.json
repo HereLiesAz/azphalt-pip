@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.pip.pro",
+    "version":  "1.0.0",
+    "description":  "A premium PiP layout that perfectly scales and drops a shadow, with background bokeh.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
