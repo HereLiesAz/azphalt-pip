@@ -4,9 +4,10 @@
   "name": "Pro Picture-in-Picture",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "A premium PiP layout that perfectly scales and drops a shadow, with background bokeh.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
